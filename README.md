@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/mit-gajera-15526626b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/MitGajera189213" target="_blank">
+  <a href="https://x.com/meett09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="X logo" />
   </a>
   <a href="https://www.instagram.com/meet._.09" target="_blank">
