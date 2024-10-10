@@ -6,19 +6,17 @@
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-## Connect with me
+<br>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mitgajera" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/meett09" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="X logo" />
-  </a>
-  <a href="https://www.instagram.com/meet._.09" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-</div>
+## Connect with me
+<p align="left">
+<a href="https://twitter.com/meett09" target="blank">
+ <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="meett09" /></a>
+<a href="https://linkedin.com/in/mitgajera" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="surajkumar00" /></a>
+<a href="https://discord.gg/PCmDTcz9" target="blank">
+ <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="meet_09" /></a>
+<a href="https://www.leetcode.com/mit_gajera" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+</p>
 
 ## Skills
 
