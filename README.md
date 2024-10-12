@@ -79,7 +79,7 @@
           <a href="http://www.github.com/mitgajera"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mitgajera&theme=tokyonight&hide_border=true" /></a>
     </table>
       </div>
-      <a href="http://www.github.com/Suraj-kumar00"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mitgajera&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+      <a href="http://www.github.com/mitgajera"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mitgajera&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
     </td>
   </tr>
 
