@@ -76,7 +76,7 @@
           <a href="http://www.github.com/mitgajera"><img src="https://github-readme-stats.vercel.app/api?username=mitgajera&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="Mit's GitHub stats" /></a> 
         </td>
         <td width="45%">
-          <a href="http://www.github.com/mitgajera"><img src="https://streak-stats.demolab.com?user=mitgajera&theme=tokyonight" alt="GitHub Streak Stats" />
+          <a href="http://www.github.com/mitgajera"><img src="https://streak-stats.demolab.com/?user=mitgajera&theme=tokyonight" />
 </a>
     </table>
       </div>
