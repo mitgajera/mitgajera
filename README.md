@@ -11,7 +11,7 @@
 <a href="https://twitter.com/meett09" target="blank">
  <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="meett09" /></a>
 <a href="https://linkedin.com/in/mitgajera" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="surajkumar00" /></a>
-<a href="https://discord.gg/PCmDTcz9" target="blank">
+<a href="https://discord.gg/0xmeett" target="blank">
  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="meet_09" /></a>
 <a href="https://www.leetcode.com/mit_gajera" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
 </p>
