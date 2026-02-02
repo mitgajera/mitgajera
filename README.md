@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mitgajera/count.svg?" />
+  <img src="https://komarev.com/ghpvc/?username=mitgajera" />
 </div>
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -29,36 +29,18 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 
-<hr>
- 
-<h2 align="center"> 📊 GitHub Stats</h2>
   </div>
-  <div align="center">
-    <table>
-      <tr>
-        <td width="45%">
-          <a href="http://www.github.com/mitgajera"><img src="https://github-readme-stats.vercel.app/api?username=mitgajera&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="Mit's GitHub stats" /></a> 
-        </td>
-        <td width="45%">
-          <a href="http://www.github.com/mitgajera"><img src="https://streak-stats.demolab.com/?user=mitgajera&theme=tokyonight" />
-</a>
-    </table>
       </div>
       <a href="http://www.github.com/mitgajera"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mitgajera&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
     </td>
-  </tr>
 
 <hr>
 
   <div align="center">
     <table>
       <tr>
-        <td width="40%">
-          </div>
-      <a href="http://www.github.com/mitgajera"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitgajera&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height = 100%" alt="Languages"/></a>
-    </td> 
         </td>
-        <td width="60%">
+        <td width="100%">
           <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></a>
     </table>
       </div>
