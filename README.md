@@ -38,19 +38,10 @@
 
   <div align="center">
     <table>
-      <tr>
-        </td>
-        <td width="100%">
-          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></a>
-    </table>
+          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
       </div>
     </td>
   </tr>
-
-   </table>
-      </div>
-      </table>
-      </div>
       
 
 
