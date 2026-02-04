@@ -8,7 +8,7 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://twitter.com/meett09" target="blank">
+<a href="https://x.com/0xmeett" target="blank">
  <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="meett09" /></a>
 <a href="https://linkedin.com/in/mitgajera" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="surajkumar00" /></a>
 <a href="https://discord.gg/Kjvgk8ej" target="blank">
